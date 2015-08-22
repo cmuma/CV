@@ -1,0 +1,46 @@
+body{
+	background-color: #DEDADD;
+	font-family: "Times New Roman", Georgia, Serif;
+	height: 1000px;
+	width: 750px;
+}
+
+#titulo{
+	color:blue;
+}
+
+.textos{
+	color: #090716;
+}
+
+#contenedor{
+	background-color: #0D4BD1
+}
+
+h1{
+	font-size: 32px;
+	color: #1720A3;
+}
+
+h2{
+	font-size: 24px;
+	color: #BC0E0C;
+}
+
+p{
+	text-align: justify;
+	color: #F6F5F3;
+}
+
+ul{
+	list-style: none;
+	margin-left: 0;
+	padding: 10;
+}
+
+ol{
+	list-style: none;
+	margin-left: 0;
+	padding: 10;
+}
+
